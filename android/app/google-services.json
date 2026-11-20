@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271678032594",
+    "project_id": "ngoapp-fa1db",
+    "storage_bucket": "ngoapp-fa1db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271678032594:android:56ae1355553b8309c6bb0b",
+        "android_client_info": {
+          "package_name": "com.ehaquesoft.ngo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMjL4ti-k-yGa3DYbDd7Yux54fx_uQZqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

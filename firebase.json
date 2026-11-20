@@ -1,0 +1,21 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "ngoapp-fa1db",
+          "appId": "1:271678032594:android:56ae1355553b8309c6bb0b",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "ngoapp-fa1db",
+          "configurations": {
+            "android": "1:271678032594:android:56ae1355553b8309c6bb0b"
+          }
+        }
+      }
+    }
+  }
+}
